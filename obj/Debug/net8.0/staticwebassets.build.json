@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qiFafnATomqvnIUR80CeGB4Ri5EzfLZ818pO9WQkixc=",
+  "Source": "Serilog_logging",
+  "BasePath": "_content/Serilog_logging",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
